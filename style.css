@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  height: 100vh;
+  color: #333;
+  background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.btn--hole1 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 110px;
+}
+
+.btn--hole2 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole3 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole4 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole5 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole6 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole7 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole8 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole9 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole10 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole11 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole12 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.btn--hole13 {
+  top: 39.3rem;
+  font-size: 1rem;
+  font: 500;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.worm {
+  background-color: rgb(124, 108, 98);
+}
+
+.winner {
+  font-size: 6rem;
+  color: lightcyan;
+  top: 7rem;
+  left: 46rem;
+  position: fixed;
+}
+
+.hidden {
+  display: none;
+}
+
+.wormGame {
+  font-size: 4rem;
+  color: white;
+  top: 2rem;
+  left: 2rem;
+  position: fixed;
+}
+
+.hits {
+  font-size: 2rem;
+  color: white;
+  top: 7rem;
+  left: 2.2rem;
+  position: fixed;
+  font-style: italic;
+}
+
+.worm--image {
+  top: 1.6rem;
+  left: 27rem;
+  height: 8rem;
+  position: fixed;
+}
